@@ -1,0 +1,17 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Product A",
+        "description": "Description for Product A",
+        "reviews": []
+      },
+      {
+        "id": 2,
+        "name": "Product B",
+        "description": "Description for Product B",
+        "reviews": []
+      }
+    ]
+  }
+  
